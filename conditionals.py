@@ -11,6 +11,5 @@ elif temp > 4 and temp < 100:
 
 elif temp >= 100:
 	print("water is a gas")
-else: 
-	print("you didn't enter a number, try again")
+
 
